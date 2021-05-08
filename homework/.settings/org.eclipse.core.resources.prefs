@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/homework/business/concretes/AuthManager.java=UTF-8
+encoding//src/homework/business/validation/concretes/LoginValidation.java=UTF-8
+encoding//src/homework/business/validation/concretes/RegisterValidation.java=UTF-8
